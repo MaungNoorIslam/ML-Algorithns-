@@ -4,6 +4,7 @@
 
 [Pre-lecture quiz](https://happy-mud-02d95f10f.azurestaticapps.net/quiz/47)
 
+[Algorithms Techniques](https://github.com/drmnislam/mnislam.github.io)
 ### Introduction
 
 As a web application grows, it becomes a challenge to keep track of all data flows. Which code gets the data, what page consumes it, where and when does it need to be updated...it's easy to end up with messy code that's difficult to maintain. This is especially true when you need to share data among different pages of your app, for example user data. The concept of *state management* has always existed in all kinds of programs, but as web apps keep growing in complexity it's now a key point to think about during development.
